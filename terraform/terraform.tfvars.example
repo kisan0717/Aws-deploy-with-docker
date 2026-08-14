@@ -1,0 +1,6 @@
+aws_region  = "ap-south-1"
+environment = "dev"
+
+flask_image = "ACCOUNT_ID.dkr.ecr.ap-south-1.amazonaws.com/flask-backend:latest"
+
+express_image = "ACCOUNT_ID.dkr.ecr.ap-south-1.amazonaws.com/express-frontend:latest"
